@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sousa;Carlos
+FN:Carlos Sousa
+TITLE:Realtor Associate
+ORG:Brickell Realty Group
+ADR;WORK:;;2071 NW 112th Avenue;Suite 101;Miami;FL;33172
+TEL;TYPE=CELL;PREF:+1 (954) 816-3995
+TEL;WORK:+1 (954) 816-3995
+TEL;TYPE=FAX:+1 (305) 477-1802
+EMAIL;PREF;INTERNET:karlin1975@hotmail.com
+EMAIL;2;INTERNET:karlin1975@hotmail.com
+URL;WORK:https://Csousa@brickell-realty.com
+END:VCARD
